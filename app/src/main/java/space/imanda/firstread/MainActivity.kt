@@ -17,11 +17,15 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setupUI() {
-        /*val title: TextView = findViewById(R.id.tv_title)
+        /*
+        // When Using "findViewById"
+        val title: TextView = findViewById(R.id.tv_title)
         val subTitle: TextView = findViewById(R.id.tv_sub_title)
         title.text = "Reader"
-        subTitle.text = "Reader are Awesome"*/
+        subTitle.text = "Reader are Awesome"
+        */
 
+        // When Using View Binding
         binding.tvTitle.text = getString(R.string.reader)
         binding.tvSubTitle.text = getString(R.string.reader_are_awesome)
         binding.tvNotesForReader.text = getString(R.string.learn_to_understand)
