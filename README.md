@@ -37,4 +37,10 @@ No boilerplate code
 No impact on build time
 Supports both Kotlin and Java.
 
-[Refer Android Documentation link](https://developer.android.com/topic/libraries/view-binding)
+## Further Reading and Resources
+
+[View Binding Android Documentation](https://developer.android.com/topic/libraries/view-binding)
+
+[Kotlin Synthetic is Dead, Long Live ViewBinding (Kotlin Android Extensions Deprecated)](https://proandroiddev.com/kotlin-synthetic-is-dead-long-live-viewbinding-kotlin-android-extensions-deprecated-10a66204d5fc)
+
+[Why Are Kotlin Synthetics Deprecated and What Are the Alternatives?](https://medium.com/better-programming/why-are-kotlin-synthetics-deprecated-and-what-are-the-alternatives-5c2b087dda1c)
