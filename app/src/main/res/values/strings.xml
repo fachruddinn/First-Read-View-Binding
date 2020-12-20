@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">First Read</string>
+    <string name="android">Android</string>
+    <string name="android_is_awesome">Android is Awesome</string>
 </resources>
