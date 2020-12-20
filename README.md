@@ -31,11 +31,11 @@ binding.tvSubTitle.text = getString(R.string.reader_are_awesome)
 
 ## Advantages of View Binding
 
-Null safety
-Type safety
-No boilerplate code
-No impact on build time
-Supports both Kotlin and Java.
+Null safety.<br/>
+Type safety.<br/>
+No boilerplate code.<br/>
+No impact on build time.<br/>
+Supports both Kotlin and Java.<br/>
 
 ## Further Reading and Resources
 
