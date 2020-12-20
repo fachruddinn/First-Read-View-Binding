@@ -24,8 +24,8 @@ class MainActivity : AppCompatActivity() {
         // When Using "findViewById"
         val title: TextView = findViewById(R.id.tv_title)
         val subTitle: TextView = findViewById(R.id.tv_sub_title)
-        title.text = "Reader"
-        subTitle.text = "Reader are Awesome"
+        title.text = getString(R.string.reader)
+        subTitle.text = getString(R.string.reader_are_awesome)
         */
 
         // When Using View Binding
