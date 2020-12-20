@@ -2,4 +2,8 @@
     <string name="app_name">First Read</string>
     <string name="android">Android</string>
     <string name="android_is_awesome">Android is Awesome</string>
+    <string name="reader">Reader</string>
+    <string name="reader_are_awesome">Reader are Awesome</string>
+    <string name="notes">Notes</string>
+    <string name="learn_to_understand">Learn To Understand</string>
 </resources>
