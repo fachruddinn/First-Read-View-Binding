@@ -13,7 +13,7 @@ android {
 }
 ```
 
-3. In this project, there is a **findViewById** example for comparison
+3. In this project, there is a **findViewById** example for comparison, [Check](https://github.com/fachruddinn/First-Read-View-Binding/commit/a52eaf6984b583dccc6ef6ca6025ed2b250718f4)
 
 ```
 val title: TextView = findViewById(R.id.tv_title)
@@ -22,12 +22,14 @@ title.text = getString(R.string.reader)
 subTitle.text = getString(R.string.reader_are_awesome)
 ```
 
-4. When Using View Binding, only take 2 lines of code
+4. When Using View Binding, only take 2 lines of code, [Check](https://github.com/fachruddinn/First-Read-View-Binding/commit/e9e407a707450e4d544f5eadad692669b2763012)
 
 ```
 binding.tvTitle.text = getString(R.string.reader)
 binding.tvSubTitle.text = getString(R.string.reader_are_awesome)
 ```
+
+5. Then we can check the final code, [Final Result](https://github.com/fachruddinn/First-Read-View-Binding/blob/main/app/src/main/java/space/imanda/firstread/MainActivity.kt)
 
 ## Advantages of View Binding
 
